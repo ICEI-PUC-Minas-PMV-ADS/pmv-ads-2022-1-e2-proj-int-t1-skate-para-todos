@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# Skate para Todos
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto`
 
-`SEMESTRE`
+`2º Período`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste trabalho é a criação de solução tecnológica que auxilie aos usuários a possibilidade de captar, recolher e doar peças de skate bem como a destinação adequada a crianças que não possuem condições de praticar o esporte. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Bárbara Augusta Silva Pereira
+* Henrique Augusto De Magalhães Silva
+* Paulo Vitor Pereira Rocha
+* Luiz Henrique Arruda Sewaybricker
 
 ## Orientador
 
-* Nome completo do professor 1
+* Rosilane Ribeiro Da Mota
 
 ## Instruções de utilização
 
