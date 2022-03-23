@@ -6,9 +6,13 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-Amanda Lopes tem 37 anos, é psicóloga e dona de um pequeno consultório que atua atendendo crianças e jovens de baixa renda. 
+Amanda Lopes tem 37 anos, é psicóloga e dona de um pequeno consultório que atua atendendo crianças e jovens de baixa renda. Tem interesses em: práticas esportivas, socialização de crianças e jovens e atendimentos solidários para jovens carentes. É insatisfeita em realçao a marginalização do skate e baixo incentivo da pratica esportiva entre jovens.
 
+Márcio Gomes tem 28 anos, é Auxiliar de escritório e funcionário de uma empresa do setor da indústria alimentícia. Tem interesses em: pratica de esportes em grupo, aprendizado de novas tecnologias, doar materiais esportivos usados . É insatisfeito em realçao a atividades esportivas sendo substituídas por tablets e videogames e marginalização de crianças de baixa renda.
 
+Victor Souza tem 27 anos, é proprietario de loja de skate.
+
+Toninho Rauque tem 53 anos, é skatista profissional.
 
 ## Histórias de Usuários
 
