@@ -1,46 +1,46 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O skate do Brasil brilhou nas olimpíadas de 2020 que aconteceram em Tóquio, conquistando 3 medalhas, em especial a da atleta Rayssa Leal, que, com apenas 13 anos, se tornou a brasileira mais jovem a receber uma medalha olimpíca, entre homens e mulheres de todas modalidades (AVELAR,2021). Essa exposição do skate impulsionou a prática do esporte, construções de pistas, e mercado da área. A popularidade do skate ajudou a acabar com o preconceito que sempre teve, como por exemplo na cidade de São Paulo, onde era proíbido nos anos 80. 
+
+O esporte possui diversas modalidades, porém nas olimpíadas houve competição apenas de Street e Park. Além dessas existe a Megarampa, FreeStyle, Vert ou Vertical, Bowl, Downhill Speed, Slide, Longboard e Slalom. 
+
+Um skate é composto por 1 shape, 8 parafusos, 2 trucks, 4 rodas e 8 rolamentos. O shape é a prancha de madeira que serve de base para pessoa, e é revestida com lixa em sua superfície para aumentar a adêrencia com o calçado. Os trucks são os eixos do skate, que estão parafusados abaixo do shape, onde se encaixam as rodas e rolamentos. As rodas podem variar em tamanho e maciez, influenciando na velocidade, deslize e desgaste. Os rolamentos permitem as rodas girarem com fluidez. 
+
+O valor de um skate completo está custando a partir de 300 reais, e esse valor pode aumentar dependendo da modalidade e qualidade. Além deste custo, são necessários calçados específicos para o esporte e equipamentos de proteção. E todos esses itens passam por desgastes, necessitando de reposição conforme o uso. 
+
+Com a desigualdade social que temos no país, é comum vermos grupos de skatistas se organizando em busca de doações de peças usadas para montar um skate para doação aos jovens sem condições de adquiri-lo. Esses movimentos acontecem informalmente através de redes sociais e nos ciclos de amizades dentro do esporte. 
+
+Uma ferramenta que potencialize essas ações é fundamental para alcançar um maior número de jovens, que sonham ser assim como a “fadinha” Rayssa Leal. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Como exposto, o problema que se busca resolver é o da dificuldade do acesso ao esporte devido ao custo e o preconceito. No qual exige ações sociais para inserção de pessoas sem condições financeiras, e o uso de uma ferramenta de divulgação e organização pode potencializar a expansão do esporte em todas camadas da sociedade. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de solução tecnológica que auxilie aos usuários a possibilidade de captar, recolher e doar peças bem como a destinação adequada a crianças que não possuem condições de praticar o esporte. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar: 
+
+-Fornecer funcionalidades de autenticação para controle e organização; 
+
+-Permitir que usuários possam cadastrar solicitação de doações para crianças, informando peças necessárias, e controlar a situação da doação e da entrega de cada peça; 
+
+-Permitir que usuários possam cadastrar doação de peças para solicitações em aberto; 
+
+-Fornecer ferramenta de comunicação no escopo de cada doação, entre as pessoas envolvidas, para tratar entrega, especificidades das peças, etc; 
+
+-Funcionalidade de compartilhamento de uma solicitação de doação; 
+
+-Fornecer relatórios diversos para acompanhamento das doações; 
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A pratica esportiva gera um benefício individual e social contribuindo para a formação e desenvolvimento físico, motor, psicológico e social. Essa prática consegue compreender formas de relacionarem-se com os outros, trocando experiências, competindo e ajudando uns aos outros. A pratica do skate estimula, principalmente, o equilíbrio, que é uma condição dificultosa para algumas pessoas e é justamente neste quesito que ele pode transformar a maneira de ver o mundo. A dificuldade em realizar uma manobra leva a diversas tentativas até que se consiga sair do chão e, quando isso acontece, uma experiência de vida é gerada. Esta ferramenta tecnológica irá proporcionar ao usuário a captação e doação de materiais, facilitando o processo de montagem de um skate que será destinando a uma criança interessada. Desta forma promovendo opção de lazer, integração social e estímulo da pratica esportiva. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora existam dois tipos de pessoas que podem se beneficiar da solução proposta, o foco deste trabalho é o público que tem contato direto com as dificuldades observadas nos locais da prática do skate. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desta forma, estabeleceu-se como público-alvo desta solução as pessoas que se encontram inseridas na prática esportiva e também no seu mercado de produtos. Que compreendem os altos preços de materiais para a prática do skate e também possuem peças usadas para ser doadas.  
