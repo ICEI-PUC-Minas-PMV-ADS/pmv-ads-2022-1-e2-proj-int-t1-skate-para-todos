@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 Ambiente|Plataforma|Link de Acesso
 |:--------|:----------:|:--------------:|
 |Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos)|
-|Documentos do projeto|GitHubDocs|Projeto Skate para Todos|[GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/tree/main/docs)|
+|Documentos do projeto|GitHubDocs|[Projeto Skate para Todos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/tree/main/docs)|
 |Projeto de Interface e  Wireframes|Paint Brush|Paint Brush |
 |Gerenciamento do Projeto|Github|Skate para Todos (github.com)|
 
