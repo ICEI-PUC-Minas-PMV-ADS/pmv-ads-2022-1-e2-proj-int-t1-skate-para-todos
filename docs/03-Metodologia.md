@@ -5,6 +5,14 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+## Relação de Ambiente de Trabalho 
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.  
+|:--------|:----------:|:--------------:|
+|Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos)|
+|Documentos do projeto|GitHubDocs|Projeto Skate para Todos|[GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/tree/main/docs)|
+|Projeto de Interface e  Wireframes|Paint Brush|Paint Brush |
+|Gerenciamento do Projeto|Github|Skate para Todos (github.com)|
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
