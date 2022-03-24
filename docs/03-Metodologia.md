@@ -57,9 +57,10 @@ Nosso grupo optou por utilizar da metodologia ágil, Scrum, sendo organizado da 
 Utilizaremos a ferramenta de gestão disponibilizada pelo próprio GitHub.
 
 * **Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista;  
-* **To Do**: Sprint que deve ser trabalhada.
 * **In Progress**: Tarefas que já estão sendo executadas. 
 * **Done**: Tarefas que passaram por revisão e testes e estão finalizadas corretamente.
+![image](https://user-images.githubusercontent.com/73501565/160020843-0f08881f-af4d-49c4-8eb9-b314dd6dd348.png)
+
 
 ### Ferramentas
 
