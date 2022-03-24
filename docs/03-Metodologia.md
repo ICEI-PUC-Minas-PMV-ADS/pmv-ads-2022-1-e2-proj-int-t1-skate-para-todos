@@ -65,9 +65,9 @@ Utilizaremos a ferramenta de gestão disponibilizada pelo próprio GitHub.
 
 As ferramentas empregadas no projeto são:
 
-- Visual Studio Code
-- Whatsapp / Teams
-- Paint Brush
+- IDE: Visual Studio Code
+- Ferramenta de comunicação: Whatsapp / Teams
+- Paint Brush.
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão, além de aplicativos de extenção que facilitam o funcionamento e preparação do código. As ferramentas de comunicação utilizadas foram escolhidas por serem de fácil acesso a todos os integrantes do grupo. Por fim, para criar
