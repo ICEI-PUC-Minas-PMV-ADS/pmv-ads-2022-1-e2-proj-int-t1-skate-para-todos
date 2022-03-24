@@ -71,6 +71,6 @@ As ferramentas empregadas no projeto são:
 - Paint Brush.
 
 O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão, além de aplicativos de extenção que facilitam o funcionamento e preparação do código. As ferramentas de comunicação utilizadas foram escolhidas por serem de fácil acesso a todos os integrantes do grupo. Por fim, para criar
+sistema de versão, além de aplicativos de extensão que facilitam o funcionamento e preparação do código. As ferramentas de comunicação utilizadas foram escolhidas por serem de fácil acesso a todos os integrantes do grupo. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução e por ser de acesso gratuito e fácil.
