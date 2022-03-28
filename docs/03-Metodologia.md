@@ -66,7 +66,7 @@ Utilizaremos a ferramenta de gestão disponibilizada pelo próprio GitHub.
 
 As ferramentas empregadas no projeto são:
 
-- IDE: Visual Studio Code
+- IDE: Visual Studio
 - Ferramenta de comunicação: Whatsapp / Teams
 - Paint Brush.
 
