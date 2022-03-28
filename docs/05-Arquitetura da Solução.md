@@ -14,8 +14,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
 
 ## Modelo ER
-![image](https://user-images.githubusercontent.com/73501565/160491671-787546ce-03a1-4620-b47b-8e46408e2ce7.png)
-
 
 ![image](https://user-images.githubusercontent.com/73501565/160207927-bcdded51-bdfa-4c05-8529-80f547fd5427.png)
 
