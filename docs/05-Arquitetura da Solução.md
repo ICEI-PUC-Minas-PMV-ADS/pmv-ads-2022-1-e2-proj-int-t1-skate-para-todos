@@ -25,7 +25,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
 > - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
-> ![image](https://user-images.githubusercontent.com/73501565/docs/img/Diagrama ER Skate para todos.png)
+> ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos
 > docs/img/Diagrama ER Skate para todos.png
 
 ## Tecnologias Utilizadas
