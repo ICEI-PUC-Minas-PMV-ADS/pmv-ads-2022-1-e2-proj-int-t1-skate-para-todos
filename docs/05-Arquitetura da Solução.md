@@ -7,6 +7,9 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+Abaixo Diagrma de Classes Skate para Todos 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/blob/main/docs/img/Class%20Diagram%20Skate%20para%20todos.png)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
@@ -22,10 +25,14 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
+Abaixo Esquema Relacional Skate para Todos
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/blob/main/docs/img/Diagrama%20ER%20Skate%20para%20todos.png)
+
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
-> ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/docs/img/Diagrama ER Skate para todos.png)
+> - [Criando um modelo relacional - Documentação da IBM] (https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+
 
 ## Tecnologias Utilizadas
 
