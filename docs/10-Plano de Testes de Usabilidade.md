@@ -2,10 +2,27 @@
 
 O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
+### __Roteiro__ 
+
+| **Tarefa 1** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+|Cadastro usuário | Concluir o cadastro, em que, ao final, será enviado uma mensagem dizendo: "Cadastro realizado com sucesso! Voltando a página inicial.". | Concretização da tarefa. Quantidade de erros cometidos.|
+
+| **Tarefa 2** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+|Fazer o login no site. | Conseguir realizar o login e ser encaminhado para a página de inicial. | Concretização da tarefa. Quantidade de erros cometidos. Tempo necessario para ser concluido. |
+
+| **Tarefa 3** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+|Cadastro de item para doação. | O usuário deve conseguir preencher todos os campos obrigatórios (e não obrigatórios) para o cadastro de sua doação| Concretização da tarefa. Quantidade de erros cometidos.Tempo necessario para ser concluido. |
+
+| **Tarefa 4** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+| Visualização do Status do item que será doado. | Conseguir identificar qual a situação do item que foi colocado para doação. | Concretização da tarefa. Quantidade de erros cometidos.Tempo necessario para ser concluido. |
+
+| **Tarefa 5** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+| Colocar a doação no "carrinho" | O usuário deve conseguir selecionar quais itens deseja adquirir (podendo ser 1 ou mais). | Concretização da tarefa. Quantidade de erros cometidos.Tempo necessario para ser concluido. |
+
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
