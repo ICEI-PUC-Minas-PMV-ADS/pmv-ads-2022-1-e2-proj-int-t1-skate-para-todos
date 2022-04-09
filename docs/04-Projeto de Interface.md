@@ -1,37 +1,53 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
-![fluxo (1)](https://user-images.githubusercontent.com/73501565/160492232-45687c28-7ab2-4ac8-a5f6-ee3f9d0c387f.png)
+![fluxo](https://user-images.githubusercontent.com/91069587/162583397-a0a3e67b-0513-42de-b078-d6d03bde4ce0.png)
 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Tela Home-Page/ Login
+![INDEX](https://user-images.githubusercontent.com/91069587/162583492-a30b0290-9327-4e5d-a5d8-5aed09d16278.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Tela criação de usuário
+![CRIAR_CONTA](https://user-images.githubusercontent.com/91069587/162583514-9bab8fe6-ba01-448f-9b26-8c368eee28b3.png)
+
+Tela inicial do usuário
+![TELA_INICIAL_USUARIO](https://user-images.githubusercontent.com/91069587/162583541-595bb9ea-1145-495a-bdb4-0677a502c6a1.png)
+
+Tela cadastrar pedido
+![CADASTRAR_CRIANCA](https://user-images.githubusercontent.com/91069587/162583565-716aa6ba-38d0-49e2-9412-bddc56a35a49.png)
+
+Tela doar
+![DOAR](https://user-images.githubusercontent.com/91069587/162583596-a9da925e-c4ae-4cdb-8305-d98e6ef081c2.png)
+
+Tela da doaçao selecionada
+![TELA_DOACAO](https://user-images.githubusercontent.com/91069587/162583620-ce5330a5-100b-4023-b0a4-fd54726ba61c.png)
+
+Tela após botão doar
+Esta tela é a atuaização da "Tela doação selecianda", com a alteração do status do item doado.
+![TELA_POS_BOTAODOAR](https://user-images.githubusercontent.com/91069587/162583653-0d0556b5-6f9a-4997-a51b-cea799a8d467.png)
+
+Tela após realizar comentário
+Esta tela é a atuaização da "Tela doação selecianda", com o novo comentário inserido.
+![TELA_POS_COMENTARIO](https://user-images.githubusercontent.com/91069587/162583708-d269bcc6-e84f-4273-ae38-499cac18a698.png)
+
+Tela acompanhamento de cadastro
+![ACOMPANHAMENTO_CADASTRO](https://user-images.githubusercontent.com/91069587/162583761-4e2f7ba1-19ee-497c-849a-e438f18a789b.png)
+
+Tela atualização do cadastro
+![ATUALIZAÇÃO CADASTRO](https://user-images.githubusercontent.com/91069587/162583781-fac77010-b453-4772-84d3-b3ce4195bdf6.png)
+
+Tela relatórios
+![RELATORIOS](https://user-images.githubusercontent.com/91069587/162583788-d476046d-18db-42f9-b3f9-b21da2cc82e1.png)
+
+
+
