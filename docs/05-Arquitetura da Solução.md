@@ -9,7 +9,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 Abaixo Diagrma de Classes Skate para Todos 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t1-skate-para-todos/blob/main/docs/img/Class%20Diagram%20Skate%20para%20todos.png)
+![image](https://user-images.githubusercontent.com/57157628/162615246-ce83940b-d8d3-4fb7-9aff-7bfe523aa3e3.png)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
