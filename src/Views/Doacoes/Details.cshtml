@@ -1,0 +1,100 @@
+﻿@model skateparatodos.Models.Doacao
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Doação</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataCriacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataCriacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Usuario)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Usuario.Email)
+        </dd>
+    </dl>
+    <h4>Peças</h4>
+    <dl class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Peça
+                    </th>
+                    <th>
+                        Descrição
+                    </th>
+                    <th>
+                        Doador
+                    </th>
+                    <th>
+                        Ações
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.DoacoesItens.OrderByDescending(c => c.Peca))
+                {
+                    <tr>
+                        <form asp-action="Doar" asp-controller="DoacoesItens" asp-route-id="@item.Id">
+                        <td>
+                                @Html.DisplayFor(modelItem => item.Peca)
+                        </td>
+                        <td>
+                                @Html.DisplayFor(modelItem => item.Descricao)
+                        </td>
+                        <td>
+                                @if (item.Usuario != null)
+                                {
+                                    @Html.DisplayFor(modelItem => item.Usuario.Nome)
+                                }
+                        </td>
+                        <td>
+                                @if (item.Usuario != null)
+                                {
+                                    <!--<input type="submit" value="Cancelar" class="btn btn-primary" />!-->
+                                }
+                                else
+                                {
+                                <input type="submit" value="Doar" class="btn btn-primary" />
+                                }
+                        </td>
+                        </form>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </dl>
+</div>
+<div>
+    <!--<a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |-->
+    <a asp-action="Index">Voltar para Doações</a>
+</div>
