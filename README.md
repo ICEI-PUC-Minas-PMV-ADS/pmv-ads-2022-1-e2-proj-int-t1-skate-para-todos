@@ -14,6 +14,7 @@ O objetivo geral deste trabalho é a criação de solução tecnológica que aux
 * Henrique Augusto De Magalhães Silva
 * Paulo Vitor Pereira Rocha
 * Luiz Henrique Arruda Sewaybricker
+* Gabriel Eduardo Palhares
 
 ## Orientador
 
