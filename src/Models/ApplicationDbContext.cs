@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using skateparatodos.Models;
 
 namespace skateparatodos.Models
 {
@@ -11,6 +12,7 @@ namespace skateparatodos.Models
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Doacao> Doacoes { get; set; }
         public DbSet<DoacaoItem> DoacoesItens { get; set; }
+        public DbSet<Comentario> Comentarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -148,7 +148,7 @@ namespace skateparatodos.Controllers
 
             doacaoItem.Usuario = await _context.Usuarios
                 .FirstOrDefaultAsync(m => m.Email == User.FindFirstValue(ClaimTypes.NameIdentifier));
-
+            doacaoItem.UsuarioId = doacaoItem.Usuario.Id;
             if (ModelState.IsValid)
             {
                 try

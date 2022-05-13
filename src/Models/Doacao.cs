@@ -34,6 +34,8 @@ namespace skateparatodos.Models
 
         public ICollection<DoacaoItem> DoacoesItens { get; set; }
 
+        public ICollection<Comentario> Comentarios { get; set; }
+
     }
     public enum StatusDoacao
     {

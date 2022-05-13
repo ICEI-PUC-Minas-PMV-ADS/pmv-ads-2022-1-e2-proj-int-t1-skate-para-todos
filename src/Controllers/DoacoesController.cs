@@ -40,6 +40,9 @@ namespace skateparatodos.Controllers
             var doacao = await _context.Doacoes
                 .Include(d => d.Usuario)
                 .Include(d => d.DoacoesItens)
+                .ThenInclude(d => d.Usuario)
+                .Include(d => d.Comentarios)
+                .ThenInclude(c => c.Usuario)
                 .FirstOrDefaultAsync(m => m.Id == id);
 
             if (doacao == null)
@@ -79,7 +82,7 @@ namespace skateparatodos.Controllers
                 .FirstOrDefaultAsync(m => m.Email == User.FindFirstValue(ClaimTypes.NameIdentifier));
                 doacao.Status = StatusDoacao.Aberta;
                 _context.Add(doacao);
-                await _context.SaveChangesAsync();
+                _context.SaveChanges();
 
                 doacao.DoacoesItens = new List<DoacaoItem>();
                 // Add parts to the list.
@@ -93,7 +96,7 @@ namespace skateparatodos.Controllers
                     _context.Add(doacaoItem);
                 }
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Details), new { id = doacao.Id });
             }
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "Id", "Email", doacao.UsuarioId);
             //return View("CreatePecas");
