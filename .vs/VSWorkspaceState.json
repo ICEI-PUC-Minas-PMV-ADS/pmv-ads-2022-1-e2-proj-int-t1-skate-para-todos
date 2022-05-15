@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Views",
+    "\\src\\Views\\Home",
+    "\\src\\wwwroot",
+    "\\src\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\src\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
