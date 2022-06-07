@@ -44,7 +44,7 @@
 |**Critérios de Êxito** | "Solicitação concluída". Visualizar se o cadastro consta na página "Lista de pedidos já cadastrados". |
 
 
-|Caso de Teste |CT-08 – Visualizar status do pedido de doação e gerar relatórios|
+|Caso de Teste |CT-06 – Visualizar status do pedido de doação e gerar relatórios|
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-007 - O site deve permitir que o usuário tenha relatórios sobre seus pedidos cadastrados |
 |**Entrada** | O usuário abrirá a página inicial e selecionar a opção "Acompanhamento de cadastro", isso o redirecionará para a página de acompanhamento de cadastros e em seguida ele selecionará a opção "Gerar relatórios". Após clicar nessas opções, o usuário abrirá a página de relatórios. |
@@ -53,7 +53,7 @@
 |**Critérios de Êxito** | "Relatórios gerados com sucesso". | 
 
 
-|Caso de Teste |CT-09 - Comunicar-se com doadores e usuários que fizeram solicitação de doação |
+|Caso de Teste |CT-07 - Comunicar-se com doadores e usuários que fizeram solicitação de doação |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-005 - O site deve oferecer um canal de comunicação para o usuário que criou o pedido se comunicar com os outros |
 |**Entrada** | Através do acesso ao site e, tendo seu cadastro concluído, o mesmo poderá interagir com outros usuários através da seção de comentários presente na página dos pedidos. |
