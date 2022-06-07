@@ -1,12 +1,40 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
-
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-## Avaliação
+## Casos de testes de Software
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+|Caso de Teste |CT- 01 - Cadastro de Usuário  |
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar e testar se o sistema está cadastrando um usuário corretamente, de forma a permitir que o usuário consiga inserir seus dados na plataforma e prosseguir com o próximo passo (Login de acesso).  |
+| **Resultado** |  |
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+|Caso de Teste | CT- 02 - Login do Usuário|
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar se a funcionalidade de Login no sistema está sendo executada corretamente, de forma a permitir que o usuário acesse a plataforma e consiga utilizá-la. |
+| **Resultado** | |
+
+|Caso de Teste | CT- 03 - Alterar senha do Usuário |
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar e testar se o sistema está permitindo que um usuário consiga alterar sua senha, para que o mesmo tenha a opção de solucionar seu problema de forma independente, caso se esqueça qual foi a sua senha cadastrada inicialmente.  |
+| **Resultado** | |
+
+|Caso de Teste | CT- 04 - Cadastro de criança que receberá doação|
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar se a funcionalidade no sistema de cadastrar novas crianças destinatárias de doação está funcionando adequadamente. |
+| **Resultado** | |
+
+|Caso de Teste | CT- 05 - Doar|
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar e testar se o sistema está permitindo ao usuário completar todos os passos necessários para concluir uma doação. |
+| **Resultado** | |
+
+|Caso de Teste | CT- 06 - Visualizar status do pedido de doação e gerar relatórios|
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar se o sistema permite visualizar os pedidos de doação cadastrados no site e gerar relatórios sobre os existentes. |
+| **Resultado** | |
+
+|Caso de Teste | CT- 07 - Comunicar-se com doadores e usuários que fizeram solicitação de doação|
+|--------------------|----------------------------------------------------------------------|
+| **Objetivo do teste** | 	Verificar a funcionalidade do canal de comunicação que permite aos usuários fazerem comentários na página do pedido escolhido. |
+| **Resultado** | |****
