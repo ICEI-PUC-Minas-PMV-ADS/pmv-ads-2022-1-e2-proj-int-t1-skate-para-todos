@@ -4,7 +4,7 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
 
 O modelo de teste que será utilizado é o de descoberta de problemas, também chamado de estudo formativo, que atualmente é o modelo de teste de usabilidade mais comum. Seu objetivo é identificar e corrigir eventuais problemas existentes no projeto.
 
-As personas presentes na <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a> serão selecionadas para participar do teste e um avaliador ficará responsável por analisar e identificar quais foram os obstáculos que os usuários tiveram ao utilizar o sistema. Através desse método, torna-se possível identificar e corrigir eventuais problemas existentes, além de melhorar a performance dentro da aplicação.
+Serão selecionados usuários que possuem perfil característico semelhante ao das personas presentes na <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>, eles participarão do teste e um avaliador ficará responsável por analisar e identificar quais foram os obstáculos que os usuários tiveram ao utilizar o sistema. Através desse método, torna-se possível identificar e corrigir eventuais problemas existentes, além de melhorar a performance dentro da aplicação.
 
 ### __Roteiro__ 
 
