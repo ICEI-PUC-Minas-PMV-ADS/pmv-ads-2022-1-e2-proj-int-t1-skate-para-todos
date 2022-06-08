@@ -2,6 +2,10 @@
 
 O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
+O modelo de teste que será utilizado é o de descoberta de problemas, também chamado de estudo formativo, que atualmente é o modelo de teste de usabilidade mais comum. Seu objetivo é identificar e corrigir eventuais problemas existentes no projeto.
+
+As personas presentes na <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a> serão selecionadas para participar do teste e um avaliador ficará responsável por analisar e identificar quais foram os obstáculos que os usuários tiveram ao utilizar o sistema. Através desse método, torna-se possível identificar e corrigir eventuais problemas existentes, além de melhorar a performance dentro da aplicação.
+
 ### __Roteiro__ 
 
 | **Tarefa 1** | **Critério de Êxito** | **O que será avaliado** |
