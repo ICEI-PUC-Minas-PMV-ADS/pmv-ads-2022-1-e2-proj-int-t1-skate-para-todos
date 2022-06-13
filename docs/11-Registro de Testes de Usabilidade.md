@@ -18,9 +18,11 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <tr><th>Objetivo do teste</th>
   <th>Verificar a usabilidade do cadastro de usuário, assim como identificar possíveis erros e dificuldades que o mesmo tenha encontrado, sendo critério de êxito a devida concretização do cadastro.</th></tr>
 <tr><th>Resultado</th>
-  <th>.<br>
+  <th>.<br>![image](https://user-images.githubusercontent.com/91069587/173459162-d858e3fc-727a-41db-9e44-4f9d35a40500.png)
+
   </th></tr>
 <tr><th>Possível melhoria</th>	
+  Após diferentes cadastros serem realizados. Observamos que todos foram bem sucedidos.
   <th>-</th></tr>
   </table>
   
@@ -30,9 +32,11 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <tr><th>Objetivo do teste</th>
   <th>Verificar a usabilidade do sistema de login e se o usuário conseguiu efetuá-lo após preencher suas informações nos campos correspondentes, sendo critério de êxito a concessão de acesso à plataforma, direcionando o usuário à Página Inicial.</th></tr>
 <tr><th>Resultado</th>
-  <th>.<br>
+  <th>.<br>![image](https://user-images.githubusercontent.com/91069587/173459306-4cc8bc19-1ae8-4732-8e72-871e6cb9fd82.png)
+
   </th></tr>
 <tr><th>Possível melhoria</th>	
+  Todos os  cadastros realizados obtiveram sucesso ao efetuar login com o campos cadastrados.
   <th>-</th></tr>
   </table>
   
@@ -41,10 +45,12 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <th> CT 03  – Cadastro de item para doação </th></tr>
 <tr><th>Objetivo do teste</th>
   <th>Verificar se o usuário foi capaz de preencher todos os campos obrigatórios (e não obrigatórios) para o cadastro de sua doação e se a mesma foi concluída.</th></tr>
-<tr><th>Resultado</th>
+<tr><th>Resultado</th>![image](https://user-images.githubusercontent.com/91069587/173459599-3231b8c3-b3d4-4746-adc0-49a0787634a9.png)
+
   <th>.<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
+  A doalão foi criada com sucesso, de forma que todos os itens foram adicionados corretamente no pedido de peças, bem como a descrição título e demais informações do cadastro de doação.
   <th>-</th></tr>
   </table>
   
@@ -53,21 +59,25 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <th> CT 04  – Visualização do Status do item que será doado </th></tr>
 <tr><th>Objetivo do teste</th>
   <th>Verificar se através da plataforma o usuário conseguiu identificar qual a situação do item que foi selecionado para doação.</th></tr>
-<tr><th>Resultado</th>
+<tr><th>Resultado</th>![image](https://user-images.githubusercontent.com/91069587/173459846-b636f6bd-9669-4183-ab34-5241c6884c5f.png)
+
   <th>.<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
+  É possivel observar os itens doados, bem como o nome do doador, também é possivel observar que o criador do pedido também é capaz de preencher um item como doado corretamente. Isso é importante pois o item pode ter sido doado por outra vias, que não o site. E criando entendimento dos usuários que a peça não necessita amis de doação.
   <th>-</th></tr>
   </table>
   
    <table> 
 <tr><th>Caso de Teste </th>
-<th> CT 05  – Colocar a doação no "carrinho" </th></tr>
+<th> CT 05  – Comentar no pedido "thread" </th></tr>
 <tr><th>Objetivo do teste</th>
-  <th>Verificar se o usuário, no ato de realizar uma doação utilizando o site, foi capaz de selecionar quais itens o mesmo desejava adquirir (podendo ser 1 ou mais) e direcioná-los ao "carrinho".</th></tr>
-<tr><th>Resultado</th>
+  <th>Verificar se o usuário, consegue comentar em pedidos, observando se o comentário aparece corretamente e se comentários de demias usuários são visualizados corretamente.</th></tr>
+<tr><th>Resultado</th>![image](https://user-images.githubusercontent.com/91069587/173460721-a213044b-40c3-41ac-8431-579556ffe1d5.png)
+
   <th>.<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
+  Todos usuários conseguem visualizar mensagens de outros usuários bem como colocar seus próprios comentários.
   <th>-</th></tr>
   </table>
