@@ -65,7 +65,7 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <th> CT 05  – Comentar no pedido "thread" </th></tr>
 <tr><th>Objetivo do teste</th>
   <th>Verificar se o usuário, consegue comentar em pedidos, observando se o comentário aparece corretamente e se comentários de demias usuários são visualizados corretamente.</th></tr>
-<tr><th>Resultado</th>![image](https://user-images.githubusercontent.com/91069587/173460721-a213044b-40c3-41ac-8431-579556ffe1d5.png)
+<tr><th>Resultado</th>
   <th>[image](https://user-images.githubusercontent.com/91069587/173460721-a213044b-40c3-41ac-8431-579556ffe1d5.png)<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
