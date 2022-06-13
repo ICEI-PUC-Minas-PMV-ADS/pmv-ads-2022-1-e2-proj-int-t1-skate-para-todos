@@ -18,7 +18,7 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <tr><th>Objetivo do teste</th>
   <th>Verificar a usabilidade do cadastro de usuário, assim como identificar possíveis erros e dificuldades que o mesmo tenha encontrado, sendo critério de êxito a devida concretização do cadastro.</th></tr>
 <tr><th>Resultado</th>
-  <th>.<br>![image](https://user-images.githubusercontent.com/91069587/173459162-d858e3fc-727a-41db-9e44-4f9d35a40500.png)
+  <th>.<br>![image](![image](https://user-images.githubusercontent.com/73501565/173464353-d050b4ff-029a-4526-9eba-655a03945410.png))
   </th></tr>
 <tr><th>Possível melhoria</th>
   <th>	Após diferentes cadastros serem realizados. Observamos que todos foram bem sucedidos.</th></tr>
