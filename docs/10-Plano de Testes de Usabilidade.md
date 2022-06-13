@@ -26,7 +26,7 @@ Serão selecionados usuários que possuem perfil característico semelhante ao d
 
 | **Tarefa 5** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-| Colocar a doação no "carrinho" | O usuário deve conseguir selecionar quais itens deseja adquirir (podendo ser 1 ou mais). | Concretização da tarefa. Quantidade de erros cometidos. Tempo necessario para ser concluído. |
+| Criar comentário" | O usuário deve conseguir inserir quantos comentários desejae, bem como visualizar comentários de outros usuários | Concretização da tarefa. Quantidade de erros cometidos. Tempo necessario para ser concluído. |
 
 
 
