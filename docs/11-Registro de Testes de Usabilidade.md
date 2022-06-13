@@ -30,7 +30,7 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
 <tr><th>Objetivo do teste</th>
   <th>Verificar a usabilidade do sistema de login e se o usuário conseguiu efetuá-lo após preencher suas informações nos campos correspondentes, sendo critério de êxito a concessão de acesso à plataforma, direcionando o usuário à Página Inicial.</th></tr>
 <tr><th>Resultado</th>
-  <th>![image]([https://user-images.githubusercontent.com/91069587/173459306-4cc8bc19-1ae8-4732-8e72-871e6cb9fd82.png](https://user-images.githubusercontent.com/91069587/173459162-d858e3fc-727a-41db-9e44-4f9d35a40500.png))<br>
+  <th>(https://user-images.githubusercontent.com/91069587/173459306-4cc8bc19-1ae8-4732-8e72-871e6cb9fd82.png)<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
   <th>  Todos os  cadastros realizados obtiveram sucesso ao efetuar login com o campos cadastrados.</th></tr>
