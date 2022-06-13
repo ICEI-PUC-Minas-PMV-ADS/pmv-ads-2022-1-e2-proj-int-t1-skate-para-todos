@@ -75,7 +75,9 @@
                         <td>
                             @if (item.Usuario != null)
                             {
-                                <!--<input type="submit" value="Cancelar" class="btn btn-primary" />!-->
+                                <form asp-action="Cancelar" asp-controller="DoacoesItens" asp-route-id="@item.Id">
+                                    <input type="submit" value="Cancelar" class="btn btn-primary" />
+                                </form>
                             }
                             else
                             {
