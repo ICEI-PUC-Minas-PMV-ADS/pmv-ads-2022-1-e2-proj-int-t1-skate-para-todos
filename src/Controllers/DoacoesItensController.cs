@@ -177,6 +177,49 @@ namespace skateparatodos.Controllers
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "Id", "Email", doacaoItem.UsuarioId);
             return View(doacaoItem.Doacao);
         }
+        public async Task<IActionResult> Cancelar(int id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var doacaoItem = await _context.DoacoesItens.FindAsync(id);
+            if (doacaoItem == null)
+            {
+                return NotFound();
+            }
+
+            doacaoItem.Usuario = null;
+            doacaoItem.UsuarioId = null;
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(doacaoItem);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!DoacaoItemExists(doacaoItem.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+
+                //return RedirectToAction(nameof(Index));
+                //return View(doacaoItem.Doacao);
+                //ViewData["DoacaoId"] = new SelectList(_context.Doacoes, "Id", "Descricao", doacaoItem.DoacaoId);
+                return RedirectToAction("Details","Doacoes", new { id = doacaoItem.DoacaoId });
+            }
+            ViewData["DoacaoId"] = new SelectList(_context.Doacoes, "Id", "Descricao", doacaoItem.DoacaoId);
+            ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "Id", "Email", doacaoItem.UsuarioId);
+            return View(doacaoItem.Doacao);
+        }
 
         // GET: DoacoesItens/Delete/5
         public async Task<IActionResult> Delete(int? id)
