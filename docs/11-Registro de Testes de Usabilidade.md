@@ -21,7 +21,7 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
   <th>.<br>(![image](https://user-images.githubusercontent.com/73501565/173464353-d050b4ff-029a-4526-9eba-655a03945410.png))
   </th></tr>
 <tr><th>Possível melhoria</th>
-  <th>	Após diferentes cadastros serem realizados. Observamos que todos foram bem sucedidos.</th></tr>
+  <th>	Após diferentes cadastros serem realizados, observamos que todos foram bem sucedidos.</th></tr>
   </table>
   
   <table> 
@@ -33,7 +33,7 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
   <th>(https://user-images.githubusercontent.com/91069587/173459306-4cc8bc19-1ae8-4732-8e72-871e6cb9fd82.png)<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
-  <th>  Todos os  cadastros realizados obtiveram sucesso ao efetuar login com o campos cadastrados.</th></tr>
+  <th>  Todos os  cadastros realizados obtiveram sucesso ao efetuar login com os campos cadastrados.</th></tr>
   </table>
   
   <table> 
@@ -45,7 +45,7 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
   <th>![image](https://user-images.githubusercontent.com/91069587/173459599-3231b8c3-b3d4-4746-adc0-49a0787634a9.png)<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
-  <th> A doalão foi criada com sucesso, de forma que todos os itens foram adicionados corretamente no pedido de peças, bem como a descrição título e demais informações do cadastro de doação.</th></tr>
+  <th> A doação foi criada com sucesso, de forma que todos os itens foram adicionados corretamente no pedido de peças, bem como a descrição título e demais informações do cadastro de doação.</th></tr>
   </table>
   
    <table> 
@@ -57,17 +57,17 @@ Seguem os resultados obtidos a partir dos testes de usabilidade, descritos na ta
   <th>![image](https://user-images.githubusercontent.com/91069587/173459846-b636f6bd-9669-4183-ab34-5241c6884c5f.png)<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
-  <th>  É possivel observar os itens doados, bem como o nome do doador, também é possivel observar que o criador do pedido também é capaz de preencher um item como doado corretamente. Isso é importante pois o item pode ter sido doado por outra vias, que não o site. E criando entendimento dos usuários que a peça não necessita mais de doação.</th></tr>
+  <th>  É possivel observar os itens doados, o nome do doador e o criador do pedido também é capaz de marcar um item como "doado corretamente". Isso é importante, pois o item pode ter sido doado por outra vias que não o site, sendo assim, gera entendimento aos demais usuários que a doação de determinada peça não é mais necessária, pois já foi realizada.</th></tr>
   </table>
   
    <table> 
 <tr><th>Caso de Teste </th>
 <th> CT 05  – Comentar no pedido "thread" </th></tr>
 <tr><th>Objetivo do teste</th>
-  <th>Verificar se o usuário, consegue comentar em pedidos, observando se o comentário aparece corretamente e se comentários de demias usuários são visualizados corretamente.</th></tr>
+  <th>Verificar se o usuário consegue comentar em pedidos, observando se o comentário aparece corretamente e se os comentários de demais usuários são visualizados corretamente.</th></tr>
 <tr><th>Resultado</th>
   <th>[image](https://user-images.githubusercontent.com/91069587/173460721-a213044b-40c3-41ac-8431-579556ffe1d5.png)<br>
   </th></tr>
 <tr><th>Possível melhoria</th>	
-  <th>  Todos usuários conseguem visualizar mensagens de outros usuários bem como colocar seus próprios comentários.</th></tr>
+  <th>  Todos usuários conseguem visualizar mensagens de outros usuários, bem como colocar seus próprios comentários.</th></tr>
   </table>
